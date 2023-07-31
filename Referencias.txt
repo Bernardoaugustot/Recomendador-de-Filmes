@@ -1,5 +1,13 @@
 # Anotando fonte dos conteudos para esse estudo.
+data:
+# Passo 1 - Acessar os dados dentro do dada Set.
+# Passo 2 - Trazer um filme com seus subtipos
+# Passo 3 - Trazer um similar.
 
+Django:
+# Passo 1 - Gerar uma pagina Web
+# Passo 2 - Colocar um Catalago
+# Passo 3 - Usar um metodo em data para trazer algum filme e seus relacionados.
 
 Dados IMDB -Pandas Python Tutorial:  https://www.youtube.com/watch?v=Asm2_qgBK48
 
