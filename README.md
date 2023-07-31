@@ -3,13 +3,14 @@
 
 # Cronograma
 Aperfeiçoar minha habilidade de estabelecer e seguir um cronograma, resgistrar meu avanço de cada dia e me desafiar a seguir ele.
-Dia 1: Segunda Feira 31/07 - Fazer o Planejamento, levantamento de dados, preparar habiente 
-Dia 2: Terça Feira   01/08 - *Fazer a documentação do banco de dado, para poder mostrar os filmes e suas caracteristicas
-Dia 3: Quarta Feira  02/08 - *Desenvolver a interface
-Dia 4: Quinta Feira  03/08 - 
-Dia 5: Sexta Feira   04/08 - 8 Sistema de recomendação,
-Dia 6: Sabado        05/08 - * Executar
-Dia 7: Domingo       06/08 - * Finalizar e colocar Onlines, Ir atraz dos Bonus
+
+Dia 1: Segunda Feira 31/07 - Fazer o Planejamento, levantamento de dados, preparar habiente.
+Dia 2: Terça Feira   01/08 - *Fazer a documentação do banco de dado, para poder mostrar os filmes e suas caracteristicas.
+Dia 3: Quarta Feira  02/08 - *Desenvolver a interface.
+Dia 4: Quinta Feira  03/08 - .
+Dia 5: Sexta Feira   04/08 - 8 Sistema de recomendação,.
+Dia 6: Sabado        05/08 - * Executar.
+Dia 7: Domingo       06/08 - * Finalizar e colocar Onlines, Ir atraz dos Bonus.
 
 
 # Metas
