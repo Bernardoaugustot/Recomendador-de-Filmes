@@ -21,8 +21,11 @@ Dia 7: Domingo       06/08 - * Finalizar e colocar Onlines, Ir atraz dos Bonus.
 
 # Metas
 • Manter Atualizado a Base de dados oferecidas pelo IMDB. (Conexão com o banco de dados)
+
 • Ter uma interface para o usuario, Web(Django) Ou App(SimpleGui?). 
+
 • Mostrar Filmes ao usuario para ele poder acessalos na web.
+
 • Conseguir corelacionar filmes para assim poder oferecer outros similares, se Baseando em Genero, linguagem, ator etc.(dados: https://developer.imdb.com/non-commercial-datasets/)
 
 
