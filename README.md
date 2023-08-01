@@ -25,7 +25,7 @@ Dia 7: Domingo       06/08 - * Finalizar e colocar Onlines, Ir atraz dos Bonus.
 • Ter uma interface para o usuario, Web(Django) Ou App(SimpleGui?). 
 
 • Mostrar Filmes ao usuario para ele poder acessalos na web.
-
+    ✔️ Balancear Quantidade de Votos e qualidade. Resposta: Media de votos * Quantidade, isso vai mostrar a relevancia, grandes blockbuster tem vantagem mas por padrão eles sempre são os melhores para ser apresentadso, depois com o rastrei atravez dos blockbuster podemos mostrar nixos mais especificos.
 • Conseguir corelacionar filmes para assim poder oferecer outros similares, se Baseando em Genero, linguagem, ator etc.(dados: https://developer.imdb.com/non-commercial-datasets/)
 
 
