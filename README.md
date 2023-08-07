@@ -10,9 +10,9 @@ Dia 2: Terça Feira   01/08 - *Fazer a documentação do banco de dado, para pod
 
 Dia 3: Quarta Feira  02/08 - *Desenvolver a interface.
 
-Dia 4: Quinta Feira  03/08 - .
+Dia 4: Quinta Feira  03/08 -  Finalizar a base da Interface de usuario.
 
-Dia 5: Sexta Feira   04/08 - 8 Sistema de recomendação.
+Dia 5: Sexta Feira   04/08 -  Sistema de recomendação.
 
 Dia 6: Sabado        05/08 - * Executar.
 

@@ -13,3 +13,6 @@ Dados IMDB -Pandas Python Tutorial:  https://www.youtube.com/watch?v=Asm2_qgBK48
 
 
 Referencia Basica de Django: https://www.youtube.com/watch?v=-m5ywU8SW9E
+BootsTraps Tinks: https://getbootstrap.com/docs/5.0/getting-started/introduction/
+Netflix Clone: https://github.com/OtchereDev/django_netflix_clone
+Netflix Clone Tutorial: https://www.youtube.com/watch?v=gbyYXgiSgdM
